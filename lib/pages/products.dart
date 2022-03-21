@@ -7,7 +7,7 @@ class ProductsPage extends StatelessWidget {
     return Container(
       child: Scaffold(
         appBar: AppBar(
-          title: Text('EasyList'),
+          title: Text("Product List"),
         ),
         body: ProductManager(),
       ),

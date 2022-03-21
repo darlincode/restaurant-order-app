@@ -20,10 +20,13 @@ class Products extends StatelessWidget {
             children: <Widget>[
               FlatButton(
                 child: Text('Details'),
-                onPressed: () => Navigator.push<bool>(context, MaterialPageRoute(
-                  builder: (BuildContext context) => ProductPage(products[index]['title'], products[index]['image'])
-                )).then((bool value) {
-                  if(value) {
+                onPressed: () => Navigator.push<bool>(
+                    context,
+                    MaterialPageRoute(
+                        builder: (BuildContext context) => ProductPage(
+                            products[index]['title'],
+                            products[index]['image']))).then((bool value) {
+                  if (value) {
                     deleteProduct(index);
                   }
                 }),
@@ -37,13 +40,15 @@ class Products extends StatelessWidget {
 
   Widget _buildProductList() {
     Widget productCards;
-    if(products.length > 0) {
+    if (products.length > 0) {
       productCards = ListView.builder(
         itemBuilder: _buildProduction,
         itemCount: products.length,
       );
     } else {
-      productCards = Center(child: Text('No products found, please add some'),);
+      productCards = Center(
+        child: Text('No products found, please add some'),
+      );
     }
     return productCards;
   }
