@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/new/forecast/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/new/forecast/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new/forecast/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fleet/flight/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/fleet/flight/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fleet/flight/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack_integration/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack_integration/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack_integration/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-auth/signee/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-auth/signee/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-auth/signee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weatherzz/flutter-weather/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weatherzz/flutter-weather/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weatherzz/flutter-weather/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather_app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather_app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather_app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/flutter_paystack/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/crypto_start_screens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/crypto_start_screens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/crypto_start_screens/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/semicolon/chief-assignment/pet_store/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/semicolon/chief-assignment/pet_store/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/semicolon/chief-assignment/pet_store/build" />
+      <excludeFolder url="file://$MODULE_DIR$/newme/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/newme/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/newme/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/paystack_integrat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/paystack_integrat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/paystack_integrat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/payment/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/payment/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/payment/build" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new/weather1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/Shop-UI-Kit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/Shop-UI-Kit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/Shop-UI-Kit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/app-do/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/app-do/build" />
+      <excludeFolder url="file://$MODULE_DIR$/paystack-flutter/app-do/.dart_tool" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
